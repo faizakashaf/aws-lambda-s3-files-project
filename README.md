@@ -43,6 +43,13 @@ Destination: Lambda function (select your created function)
 
 ![image](https://github.com/user-attachments/assets/a70c3bf4-1698-4fd3-b0e8-778ec0b0ef9b)
 
+![image](https://github.com/user-attachments/assets/25504624-8506-4108-a688-a29fa6126710)
+
+![image](https://github.com/user-attachments/assets/aa78fe26-8710-4c47-be22-9ee73be98597)
+
+![image](https://github.com/user-attachments/assets/35e14c9e-dbc7-4ade-afbf-0f154039b4f4)
+
+
 
 🧑‍💻 **Author**
 Faiza Kashaf
