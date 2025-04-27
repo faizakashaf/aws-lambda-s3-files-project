@@ -40,3 +40,7 @@ Publish to SNS topics
 Go to your bucket → Properties → Event Notifications → Create Event:
 Event type: PUT (file upload)
 Destination: Lambda function (select your created function)
+
+🧑‍💻 **Author**
+Faiza Kashaf
+Cloud Enthusiast | DevOps Engineer | AWS Explorer ☁️
