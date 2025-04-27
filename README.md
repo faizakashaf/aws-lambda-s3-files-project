@@ -41,6 +41,9 @@ Go to your bucket → Properties → Event Notifications → Create Event:
 Event type: PUT (file upload)
 Destination: Lambda function (select your created function)
 
+![image](https://github.com/user-attachments/assets/a70c3bf4-1698-4fd3-b0e8-778ec0b0ef9b)
+
+
 🧑‍💻 **Author**
 Faiza Kashaf
 Cloud Enthusiast | DevOps Engineer | AWS Explorer ☁️
